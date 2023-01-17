@@ -3,6 +3,7 @@
 ---
 
 
+[[Notes/Classes\|Classes]]
 
 ## Foreword
 
