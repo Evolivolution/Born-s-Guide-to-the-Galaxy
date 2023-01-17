@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/born-s-guide-to-the-galaxy/","tags":["gardenEntry"]}
 ---
 
+# Born's Guide to the Galaxy
 
-[[Notes/Classes\|Classes]]
 
 ## Foreword
 
