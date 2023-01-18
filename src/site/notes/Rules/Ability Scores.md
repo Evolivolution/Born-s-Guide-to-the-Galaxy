@@ -38,10 +38,16 @@ Once the table has been filled, each player picks a row and column for their Abi
 Compared to rolling Ability Scores this method gives you more control over how your stats look at the end. You start with a value of 6 in every Score and then you get 36 points to distribute among them on a 1 to1 basis to get your final Scores. Remember that no Score can be above 18.
 The values here are made to be in line with the average values you are expected to get from rolling ==6 3d6r1==.
 
-#### More or Less Points
+#### Amount of Points
 Of course you can give out more or less Points than 36 as a GM. I recommend changing the amount by multiples of 2 and keep in mind that even 4 more or less points already have a significant impact overall.
 
 ### Method 3: Quick Pick
 This method is the best choice if you just want a decent selection of Scores to play with and get going right away. Just use the Scores below and distribute them among your scores. Again, they are in line with what you would be expected to get from using roll ==6 3d6r1==.
 | 16  | 14  | 12  | 12  | 10  | 8   | 
 | --- | --- | --- | --- | --- | --- |
+
+### Applying Class and Heritage Bonuses
+After you successfully determined your Ability Scores by any method you get a little more customization. You get a +2 increase to your Key Ability Score determined by your Class. Your Heritage also comes with a couple of modifiers. Remember that no Score can be above 18 when completing this step. Any points above 18 are wasted and lost.
+
+#### Optional Heritage Modifiers
+Instead of using the Heritages modifiers as they are given you can also choose which Scores the modifiers apply to freely. Your choice of Heritage should not be made because it gives the optimal Ability Score modifiers.
