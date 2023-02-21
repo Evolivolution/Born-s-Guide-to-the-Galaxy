@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rules/ancestry/","title":"Ancestry"}
+{"dg-publish":true,"permalink":"/rules/ancestries/","title":"Ancestries"}
 ---
 
-# Ancestry
+# Ancestries
 ## Reading Ancestry Statistics
 **Size:** 
 **Type:** 

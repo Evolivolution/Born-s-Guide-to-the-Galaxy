@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rules/heritage/","title":"Heritage"}
+{"dg-publish":true,"permalink":"/rules/heritages/","title":"Heritages"}
 ---
 
-# Heritage
+# Heritages
 ## List of Heritages
 | Name                                                        | Source    |
 | ----------------------------------------------------------- | --------- |
