@@ -3,11 +3,11 @@
 ---
 
 # Character Creation
-## Step 1: [[Rules/Ancestry\|Ancestry]]
+## Step 1: [[Rules/Ancestries\|Ancestries]]
 Your Ancestry reflects the dominant genetics of your character. Many of your key characteristics are determined by your Ancestry.
 Choose an Ancestry from the list of available Ancestries.
 
-## Step 2: [[Rules/Heritage\|Heritage]]
+## Step 2: [[Rules/Heritages\|Heritages]]
 Where your Ancestry is all about the genetic lineage your Heritage more about the environment and culture you grew up in. Heritages might give you special features, access to bonus feats or modify your Ancestries stats.
 You can choose Heritages from the list of your Ancestry's Heritages and the list of universal Heritages.
 
