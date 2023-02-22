@@ -11,7 +11,7 @@
 
 Here is the Unarmed Strike as an example:
 **Unarmed Strike 🟣** Athletics (Reach, AC) 1d3 B #Attack
-  **Critical Success:** You deal double damage.
+ **Critical Success:** You deal double damage.
  **Success:** Deal damage.
  **Failure:** Deal no damage.
  **Critical Failure:** Deal no damage.
