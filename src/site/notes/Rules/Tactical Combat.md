@@ -8,6 +8,7 @@
 #Reaction, Trigger:
 - Target leaves a space you threaten while performing a #Move action.
 - Target performs a #Concentration action in a space you threaten.
+
 Make a *Strike* with the #Threaten descriptor against the target. This *Strike* doesn't suffer from MAP.
 
 ### Crawl 🟣
@@ -31,10 +32,10 @@ Make a *Strike* with the #Threaten descriptor against the target. This *Strike* 
 ### Strike 🟣
 #Attack A *Strike* is your basic attack. By base you can perform what is called an Unarmed Strike with various parts of your body. Weapons and an array of other features will allow you to perform other types of Strikes which function similar.
 **Unarmed Strike 🟣** Athletics (Reach, AC) 1d3 B #Attack
- **Critical Success:** You deal double damage.
- **Success:** You deal damage.
- **Failure:** You deal no damage.
- **Critical Failure:** You take the weapon damage.
+	**Critical Success:** You deal double damage.
+	**Success:** You deal damage.
+	**Failure:** You deal no damage.
+	**Critical Failure:** You take the weapon damage.
 
 ### Withdraw 🟣🟣+
 #Move Like a *Guarded Step*, withdrawing doesn't provoke reactions buts it's a more drastic choice. You can only *Withdraw* if you haven't taken other actions this turn and it consumes all your AP (at least 2). You then *Move* a number of times equal to the number of AP spend this way -1. None of this movement provokes reactions. You keep your reaction but you may not perform #Offensive actions until your next turn.
