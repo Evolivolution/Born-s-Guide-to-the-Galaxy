@@ -32,7 +32,7 @@ Make a *Strike* with the #Threaten descriptor against the target. This *Strike* 
 ### Strike 🟣
 #Attack A *Strike* is your basic attack. By base you can perform what is called an Unarmed Strike with various parts of your body. Weapons and an array of other features will allow you to perform other types of Strikes which function similar.
 	**Unarmed Strike 🟣** Athletics (Reach, AC) 1d3 B #Attack
-		**Critical Success:** You deal double damage.
+		**Critical Success:** You deal double damage. Yes
 		**Success:** You deal damage.
 		**Failure:** You deal no damage.
 		**Critical Failure:** You take the weapon damage.
